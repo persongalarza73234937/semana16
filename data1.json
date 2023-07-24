@@ -1,0 +1,142 @@
+[
+    {
+        "id": "01",
+        "lenguaje": "español",
+        "img": "https://i.blogs.es/d2dc7c/xiaomi-redmi-note-11-pro-plus-5g-4/1366_2000.jpg",
+        "marca": "redmi",
+        "precio": 500
+    },
+    {
+        "id": "02",
+        "lenguaje": "español",
+        "img": "https://i.blogs.es/ea9ee7/poco-x5-pro-4/1366_2000.jpg",
+        "marca": "poco",
+        "precio": 600
+    },
+    {
+        "id": "03",
+        "lenguaje": "español",
+        "img": "https://fdn.gsmarena.com/imgroot/reviews/22/apple-iphone-14-pro-max/lifestyle/-1200w5/gsmarena_002.jpg",
+        "marca": "iphone",
+        "precio": 700
+    },
+    {
+        "id": "04",
+        "lenguaje": "español",
+        "img": "https://i.blogs.es/67a385/oppo5/1366_2000.jpeg",
+        "marca": "Oppo",
+        "precio": 300
+    },
+    {
+        "id": "05",
+        "lenguaje": "español",
+        "img": "https://i.blogs.es/695af1/realme-9i-trasera/840_560.jpg",
+        "marca": "Realme",
+        "precio": 350
+    },
+    {
+        "id": "06",
+        "lenguaje": "español",
+        "img": "https://media.wired.com/photos/6185b9c2cc18af526d2fb9e9/1:1/w_1604,h_1604,c_limit/Gear-Huawei-Honor.jpg",
+        "marca": "Honor",
+        "precio": 250
+    },
+    {
+        "id": "07",
+        "lenguaje": "español",
+        "img": "https://img.global.news.samsung.com/pe/wp-content/uploads/2021/01/Unpacked-2021-Camera-History_main_1.jpg",
+        "marca": "Samsung",
+        "precio": 450
+    },
+    {
+        "id": "08",
+        "lenguaje": "español",
+        "img": "https://home.ripley.com.pe/Attachment/WOP_5/2065315025009/2065315025009-3.jpg",
+        "marca": "Huawei",
+        "precio": 150
+    },
+    {
+        "id": "09",
+        "lenguaje": "español",
+        "img": "https://d500.epimg.net/cincodias/imagenes/2020/05/12/smartphones/1589286681_584183_1589287563_sumario_normal.jpg",
+        "marca": "LG",
+        "precio": 320
+    },
+    {
+        "id": "10",
+        "lenguaje": "español",
+        "img": "https://pe.celulares.com/fotos/sony-xperia-p-12034-g-alt.jpg",
+        "marca": "sony",
+        "precio": 275
+    },
+    {
+        "id": "11",
+        "lenguaje": "español",
+        "img": "https://home.ripley.com.pe/Attachment/WOP_5/2065302133397/2065302133397_2.jpg",
+        "marca": "motorola",
+        "precio": 374
+    },
+    {
+        "id": "12",
+        "lenguaje": "español",
+        "img": "https://i.blogs.es/529bc7/lenovo-k6-1/1366_2000.jpg",
+        "marca": "lenova",
+        "precio": 280
+    },
+    {
+        "id": "13",
+        "lenguaje": "español",
+        "img": "https://home.ripley.com.pe/Attachment/WOP_5/imagenestelesoluciones2/SKUNOKIAC3NE_1.jpg",
+        "marca": "nokia",
+        "precio": 200
+    },
+    {
+        "id": "14",
+        "lenguaje": "español",
+        "img": "https://elcomercio.pe/resizer/cMdv7b--1qm0rBb2s2MyRzr_Bko=/1200x1200/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/6ZRKZJLAO5CB3BIIIRIVV2V6TE.jpg",
+        "marca": "ZTE",
+        "precio": 175
+    },
+    {
+        "id": "15",
+        "lenguaje": "español",
+        "img": "https://i.blogs.es/c056ca/asus-rog-phone-6-4/1366_2000.jpg",
+        "marca": "asus",
+        "precio": 290
+    },
+    {
+        "id": "16",
+        "lenguaje": "español",
+        "img": "https://pe.celulares.com/fotos/blu-vivo-one-plus-2019-79637-g-alt.jpg",
+        "marca": "blu",
+        "precio": 310
+    },
+    {
+        "id": "17",
+        "lenguaje": "español",
+        "img": "https://i.ebayimg.com/thumbs/images/g/CHcAAOSwYmZXH2A1/s-l225.jpg",
+        "marca": "1HTC",
+        "precio": 255
+    },
+    {
+        "id": "18",
+        "lenguaje": "español",
+        "img": "https://ut.com.uy/wp-content/uploads/2022/01/Celular-Hyundai-E553-16Gb-f1.jpg",
+        "marca": "Hyundia",
+        "precio": 315
+    },
+    {
+        "id": "19",
+        "lenguaje": "español",
+        "img": "https://pe.celulares.com/fotos/blackberry-priv-33925-g-alt.jpg",
+        "marca": "BlackBerry",
+        "precio": 400
+    },
+    {
+        "id": "20",
+        "lenguaje": "español",
+        "img": "https://pe.celulares.com/fotos/tecno-spark-7-91140-g-alt.jpg",
+        "marca": "tecno",
+        "precio": 170
+    }
+]

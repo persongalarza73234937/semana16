@@ -1,0 +1,32 @@
+.ocultar {
+    display: none;
+}
+.mostrar {
+    display: block;
+}
+
+.imgProducto {
+    height: 50px;
+}
+.producto {
+    text-align: center;
+    background-color: rgb(201, 231, 130);
+    margin: 10px;
+    border-color: rgb(107, 213, 240);
+}
+
+.resultado {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.listarDatos{
+    text-align: center;
+    background-color: rgb(128, 130, 221);
+    margin: 10px;
+
+}
+#vamos{
+    float: right;
+}
+
